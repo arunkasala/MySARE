@@ -1,0 +1,136 @@
+h3
+{
+  margin: 6px 0px 0px 0px;
+}
+
+.pagetitle
+{
+  color: #883760;
+  display: inline-block;
+  float: none;
+  font-family: Tahoma, Arial, Verdana, sans-serif;
+  font-size: 42px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  height: auto !important;
+  line-height: 1em !important;
+  padding: 0;
+  margin: 0;
+}
+#sidebar
+{
+  display: inline !important;
+}
+td.leftnav
+{
+  display: none;
+}
+
+#site-main-content
+{
+  position: relative;
+  zoom:1;
+}
+
+#site-main-content td, #site-main-content span, #site-main-content p, #site-main-content div
+{
+  line-height:1.6em;
+}
+
+table.NORM
+{
+  width: 780px !important;
+}
+
+table.NORM td
+{
+  padding-right: 15px;
+}
+
+span.option input
+{
+  margin-right: 5px;
+}
+
+div.wrapper table td input,
+div.wrapper table td select
+{
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+table.sortable tr
+{
+  zoom: 1;
+  position:relative;
+}
+table.sortable tr td
+{
+  padding: 3px;
+  zoom: 1;
+  position:relative;
+}
+
+table.sortable tr.odd
+{
+  background-color: #eeeeee;
+}
+
+table.sortable a,
+#site-main-content a
+{
+  text-decoration: none !important;
+}
+/* tooltip styling. by default the element to be styled is .tooltip  */
+.tooltip {
+	background-color:#883760;
+	border:1px solid #fff;
+	padding:10px 15px;
+	width:300px;
+	display:none;
+	color:#fff;
+	text-align:left;
+	font-size:12px;
+
+	/* outline radius for mozilla/firefox only */
+	-moz-box-shadow:0 0 10px #000;
+	-webkit-box-shadow:0 0 10px #000;
+}
+
+div.content-view-full
+{
+  position: relative;
+  zoom: 1;
+}
+
+td.copy
+{
+  width: 760px;
+  position: relative !important;
+  zoom: 1 !important;
+}
+td.copy p
+{
+  position: relative;
+  zoom: 1;
+}
+td.copy table#projoverview td
+{
+  padding: 2px 4px 2px 4px;
+}
+
+td.copy table#projoverview form table td
+{
+  width: auto !important;
+}
+
+/*div.tooltip
+{
+visibility: hidden;
+}*/
+
+.tooltiptext
+{
+  position: absolute;
+}

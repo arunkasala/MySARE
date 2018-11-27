@@ -1,0 +1,15 @@
+C:\00_SARE-SAN\MySARE\mySARE\daikonProfile\bin\Debug\daikonProfile.dll
+C:\00_SARE-SAN\MySARE\mySARE\daikonProfile\bin\Debug\daikonProfile.pdb
+C:\00_SARE-SAN\MySARE\mySARE\daikonProfile\obj\Debug\ResolveAssemblyReference.cache
+C:\00_SARE-SAN\MySARE\mySARE\daikonProfile\obj\Debug\daikonProfile.dll
+C:\00_SARE-SAN\MySARE\mySARE\daikonProfile\obj\Debug\daikonProfile.pdb
+C:\MySARE\mySARE\daikonProfile\bin\Debug\daikonProfile.dll
+C:\MySARE\mySARE\daikonProfile\bin\Debug\daikonProfile.pdb
+C:\MySARE\mySARE\daikonProfile\obj\Debug\ResolveAssemblyReference.cache
+C:\MySARE\mySARE\daikonProfile\obj\Debug\daikonProfile.dll
+C:\MySARE\mySARE\daikonProfile\obj\Debug\daikonProfile.pdb
+C:\MySARE\mySARE\daikonProfile\bin\Release\daikonProfile.dll
+C:\MySARE\mySARE\daikonProfile\bin\Release\daikonProfile.pdb
+C:\MySARE\mySARE\daikonProfile\obj\Release\ResolveAssemblyReference.cache
+C:\MySARE\mySARE\daikonProfile\obj\Release\daikonProfile.dll
+C:\MySARE\mySARE\daikonProfile\obj\Release\daikonProfile.pdb

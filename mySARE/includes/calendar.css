@@ -1,0 +1,155 @@
+BODY
+{
+    FONT-SIZE: 0.75em;
+    MARGIN: 0px;
+    FONT-FAMILY: Verdana, Arial;
+    BACKGROUND-COLOR: #dcd9bd;
+}
+.userpass 
+{
+	width:20ex;
+	font-family: Verdana, Arial, Helvetica;
+}
+.pagetitle {
+	font-family: Verdana, Arial, Helvetica;
+	font-size:17px;
+	color: #216E33;
+	font-weight:bold;
+}
+TABLE
+{
+    BORDER-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    BORDER-LEFT: 0px;
+    BORDER-BOTTOM: 0px
+}
+TD
+{
+    FONT-SIZE: 10pt
+}
+TH
+{
+}
+TR
+{
+}
+INPUT.evNum
+{
+    WIDTH: 60px
+}
+TR.r1
+{
+    BACKGROUND-COLOR: #eeeeee
+}
+TR.r2
+{
+    BACKGROUND-COLOR: #dddddd
+}
+TR.r3
+{
+	BACKGROUND-COLOR: #D9D9F2;
+}
+TR.r4
+{
+    BACKGROUND-COLOR: #cdcded
+}
+TD.r1c1
+{
+    BACKGROUND-COLOR: #eeeeee
+}
+TD.r1c2
+{
+    BACKGROUND-COLOR: #dddddd
+}
+TD.r2c1
+{
+    BACKGROUND-COLOR: #dddddd
+}
+TD.r2c2
+{
+    BACKGROUND-COLOR: #eeeeee
+}
+
+TABLE.events
+{
+    PADDING-BOTTOM: 15px
+}
+.evTitle
+{
+    FONT-WEIGHT: bolder
+}
+.evBody
+{
+}
+.evDate
+{
+    FONT-WEIGHT: bolder;
+    COLOR: #996633
+}
+.listMonthsHead
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 17px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.pageSubtitle
+{
+    COLOR: #996633
+}
+.copy
+{
+    PADDING-RIGHT: 10px;
+    PADDING-LEFT: 20px;
+    PADDING-BOTTOM: 5px;
+    VERTICAL-ALIGN: top;
+    BORDER-LEFT: #afa89c 1px solid;
+    PADDING-TOP: 20px;
+    BACKGROUND-COLOR: #fcfdf3
+}
+.leftnav
+{
+    BACKGROUND-COLOR: #d1ceb6
+}
+UL
+{
+    LIST-STYLE-IMAGE: url(/images/bullet.gif)
+}
+.alright
+{
+    FLOAT: right;
+    MARGIN: 0px;
+    HEIGHT: 2em;
+    TEXT-ALIGN: right
+}
+.alleft
+{
+    CLEAR: left;
+    FLOAT: left;
+    MARGIN: 0px;
+    HEIGHT: 2em;
+    TEXT-ALIGN: left
+}
+.aljust
+{
+    BACKGROUND-COLOR: aqua;
+    TEXT-ALIGN: justify
+}
+.optionpanel
+{
+    WIDTH: 80%
+}
+.eventbox
+{
+    PADDING-BOTTOM: 1em
+}
+.hidden
+{
+    DISPLAY: none
+}
+.boldblue {
+	color: #3333FF;
+}
+.boldgreen {
+	color: #008000;
+}

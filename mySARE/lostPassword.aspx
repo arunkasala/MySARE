@@ -1,0 +1,1 @@
+<%@ Page language="c#" Codebehind="lostPassword.aspx.cs" AutoEventWireup="True" Inherits="daikon.lostPasswordPage" %>

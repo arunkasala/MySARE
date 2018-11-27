@@ -1,0 +1,10 @@
+bin\Debug\daikonFile.dll
+bin\Debug\daikonFile.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\daikonFile.dll
+obj\Debug\daikonFile.pdb
+bin\Release\daikonFile.dll
+bin\Release\daikonFile.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\daikonFile.dll
+obj\Release\daikonFile.pdb

@@ -1,0 +1,10 @@
+<publishData>
+  <publishTarget publishUrl="Z:\sare\sanWebContent\mySARE\">
+    <file relUrl="bin/daikonPDP.pdb" publishTime="5/14/2014 3:01:42 PM" />
+    <file relUrl="bin/daikonPDP.dll" publishTime="5/14/2014 3:01:42 PM" />
+  </publishTarget>
+  <publishTarget publishUrl="X:\sare.org\sanWebContent\mySARE\">
+    <file relUrl="bin/daikonPDP.pdb" publishTime="10/1/2013 2:54:01 PM" />
+    <file relUrl="bin/daikonPDP.dll" publishTime="10/1/2013 2:54:02 PM" />
+  </publishTarget>
+</publishData>

@@ -1,0 +1,14 @@
+$(document).ready(function(){
+
+  $('.pagetitle').addClass('cufon').addClass('cufon-canvas');
+  $('.pagetitle').wrapInner('<cufontext></cufontext>');
+
+  $('td.leftnav td.leftnav').wrapInner('<div class="sidenav"></div>');
+  $('table.NORM tr:first').append($('table.NORM tr:last td:last'));
+  $('table.NORM tr:first td:first').css('width', '550px');
+  $('table.NORM tr:first td:last').attr('rowspan', '3');
+  
+  var d = new Date();
+  var curr_year = d.getFullYear();
+  $('#footer-menu p:first').html('Sustainable Agriculture Research &amp; Education &copy;' + curr_year);
+});

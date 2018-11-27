@@ -1,0 +1,42 @@
+
+<profileoptions>
+  <profilecategory name="aud" label="Audience">
+    <profilesubcat name="farmranchers" label="Farmers &amp; Ranchers" type="bit" />
+    <profilesubcat name="educators" label="Educators" type="bit"/>
+    <profilesubcat name="researchers" label="Researchers" type="bit"/>
+    <profilesubcat name="consumers" label="Consumers" type="bit"/>
+  </profilecategory>
+  <profilecategory name="techlvl" label="Tech Level">
+    <profilesubcat name="beginner" label="Beginner" type="bit"/>
+    <profilesubcat name="intermediate" label="Intermediate" type="bit"/>
+    <profilesubcat name="advanced" label="Advanced" type="bit"/>
+  </profilecategory>
+  <profilecategory name="inv" label="Involvement">
+    <profilesubcat name="numparticipants" label="Number of farmers/ranchers who were major participants in this project" type="int"/>
+    <profilesubcat name="numideas" label="Number of farmers/ranchers who helped generate ideas for this project" type="int"/>
+    <profilesubcat name="teststring" label="Enter a test string" type="string"/>
+    <profilesubcat name="extplanning" label="Was Extension involved in the planning of this project?" type="bit"/>
+    <profilesubcat name="extapplied" label="Will Extension be involved in the applied research, or educational delivery of project results?" type="bit"/>
+  </profilecategory>
+  <profilecategory name="cata" label="Project Category A">
+    <profilesubcat name="intgfrs" label="Integrated Farm/Ranch System" type="bit"/>
+    <profilesubcat name="edu_trn" label="Education &amp; Training" type="bit" />
+    <profilesubcat name="cropprd" label="Crop Production" type="bit"/>
+    <profilesubcat name="econmkt" label="Economic/Marketing" type="bit"/>
+    <profilesubcat name="animprd" label="Animal Production (including aquaculture, bees)" type="bit"/>
+    <profilesubcat name="commdev" label="Community Development" type="bit"/>
+    <profilesubcat name="pestmgt" label="Pest Management" type="bit"/>
+    <profilesubcat name="qoflife" label="Quality of Life" type="bit"/>
+    <profilesubcat name="soilmgt" label="Soil Management" type="bit"/>
+    <profilesubcat name="nresenv" label="Natural Resources/Environment" type="bit"/>
+    <profilesubcat name="other" label="Other" type="other"/>
+  </profilecategory>
+  <profilecategory name="cropprd" label="Crop Production">
+    <profilesubcat name="agroforestry" label="Agroforestry" type="bit"/>
+    <profilesubcat name="foliarfeeding" label="FoliarFeeding" type="bit"/>
+    <profilesubcat name="nutrientcycling" label="NutrientCycling" type="bit"/>
+    <profilesubcat name="stripcropping" label="StripCropping" type="bit"/>
+    <profilesubcat name="biologicalinoculants" label="BiologicalInoculants" type="bit"/>
+    <profilesubcat name="forestry" label="Forestry" type="bit"/>
+  </profilecategory>
+</profileoptions>

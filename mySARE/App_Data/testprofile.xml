@@ -1,0 +1,23 @@
+<SAREgrant projNum="ENE98-037" regionCode="NE" regionText="Northeast" year="1998" typeCode="1" typeText="Professional Development Program">
+  <profiles>
+    <profilecategory name="aud" label="Audience">
+        <profilesubcat name="educators" value="checked"/>
+    </profilecategory>
+    <profilecategory name="inv" label="Involvment">
+        <profilesubcat name="numideas" value="7"/>
+    </profilecategory>
+    <profilecategory name="inv" label="Involvment">
+        <profilesubcat name="teststring" value="abc123"/>
+    </profilecategory>
+    <profilecategory name="techlvl" label="Tech Level">
+        <profilesubcat name="beginner" value="checked"/>
+    </profilecategory>
+    <profilecategory name="cata" label="Tech Level">
+        <profilesubcat name="cropprd" value="checked"/>
+    </profilecategory>
+    <profilecategory name="cropprd" label="Tech Level">
+        <profilesubcat name="nutrientcycling" value="checked"/>
+    </profilecategory>
+
+  </profiles>
+</SAREgrant>

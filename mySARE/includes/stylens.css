@@ -1,0 +1,164 @@
+A {
+	text-decoration: none;
+	color: #052F9B;
+}
+
+.copy {
+	font-family: Verdana, Arial;
+	font-size:80%;
+}
+
+.copy B {
+	font-weight:bold;
+}
+
+.boldred {
+	color: #996633;
+}
+
+.homecopy {
+	font-family: Verdana, Arial;
+	font-size:70%;
+}
+
+.featurelink {
+	font-family: Verdana, Arial;
+	font-weight:bold;
+	font-size:90%;
+}
+
+.featurelinksm {
+	font-family: Verdana, Arial;
+	font-weight:bold;
+	font-size:70%;
+}
+
+.homeformtitle {
+	font-family: Verdana, Arial;
+	font-size:70%;
+	font-weight:bold;
+	color:#216E33;		
+}
+
+LI A {
+	text-decoration: none;
+	}
+
+.caption {
+	font-family: Verdana, Arial, Helvetica;
+	font-size:60%;
+	padding-top:3px;
+	padding-bottom:6px;
+	padding-left:5px;	
+	padding-right:3px;	
+	text-decoration: none;
+	}	
+	
+.leftnav {
+	font-family: Verdana, Arial, Helvetica;
+	font-size:60%;
+	text-decoration: none;
+	}
+	
+.leftnav A {
+	text-decoration: none;
+	}
+
+.leftnavsm {
+	font-family: Verdana, Arial, Helvetica;
+	font-size:50%;
+	}
+	
+.leftnavsm A {
+	text-decoration: none;
+	}	
+	
+.leftbold {
+	color: #216E33;
+	}
+	
+.menufunc {
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica;
+	font-size:11px;
+	color: #000000;
+	background-color:#F2F4E6;
+	padding-top:6px;
+	padding-bottom:6px;
+	padding-left:5px;	
+	padding-right:5px;	
+	border-left:1px solid #BFBCA0;	
+	border-bottom:1px solid #BFBCA0;	
+	border-right:1px solid #BFBCA0;	
+}
+
+.small {
+	font-family: Verdana, Arial, Helvetica;
+	font-size:10px;
+}
+
+.topnav {
+	background-color:#216E33;
+}
+
+.topnav_on {
+	background-color:#7EA178;
+}
+
+.topnav a {
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica;
+	display: block;
+	font-size:11px;
+	color: #FFFFFF;
+	font-weight: bold;	
+	background-color:#216E33;
+	padding-top:4px;
+	padding-bottom:6px;
+	padding-left:7px;	
+	padding-right:7px;	
+}
+
+.topnav_on a {
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica;
+	display: block;
+	font-size:11px;
+	color: #FFFFFF;
+	font-weight: bold;	
+	background-color:#7EA178;
+	padding-top:4px;
+	padding-bottom:6px;
+	padding-left:7px;	
+	padding-right:7px;	
+}
+
+.topnav a:hover {
+	background-color: #7EA178;
+	display: block;
+}
+
+.pagetitle {
+	font-family: Verdana, Arial, Helvetica;
+	font-size:17px;
+	color: #216E33;
+	font-weight:bold;
+}
+
+.pagetitledown {
+	font-family: Verdana, Arial, Helvetica;
+	font-size:15px;
+	color: #216E33;
+	font-weight:bold;
+}
+
+.formselect {
+	font: 11px verdana, arial, sans-serif; 
+	color: #000000; 
+	text-decoration: none;  
+	background-color: #FCFDF3;
+}
+.ItalUnderline {
+	font-style: italic;
+	text-decoration: underline;
+}

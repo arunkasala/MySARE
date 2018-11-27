@@ -1,0 +1,5 @@
+C:\MySARE\mySARE\daikonProfile\bin\Debug\daikonProfile.dll
+C:\MySARE\mySARE\daikonProfile\bin\Debug\daikonProfile.pdb
+C:\MySARE\mySARE\daikonProfile\obj\Debug\daikonProfile.csprojResolveAssemblyReference.cache
+C:\MySARE\mySARE\daikonProfile\obj\Debug\daikonProfile.dll
+C:\MySARE\mySARE\daikonProfile\obj\Debug\daikonProfile.pdb

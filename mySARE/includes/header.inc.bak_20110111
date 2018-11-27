@@ -1,0 +1,388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> 
+  <head>
+
+    <style type="text/css">
+      .limitdisplay-user { display: none; }.limitdisplay-user-10 { display: inline; }.limitdisplay-user-block-10 { display: block; }</style>
+
+    <title>MySARE - Sustainable Agriculture Research Reports</title> 
+
+
+
+    <meta name="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="Content-language" content="en-US" />
+
+
+    <meta name="author" content="eZ Systems" />
+    <meta name="copyright" content="eZ Systems" />
+    <meta name="description" content="Content Management System" />
+    <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" /> 
+    <meta name="generator" content="eZ Publish" /> 
+      <link rel="Home" href="http://sare.thinkcreative.com/index.php" title="SARE front page" />
+      <link rel="Index" href="http://sare.thinkcreative.com/index.php" />
+      <link rel="Top"  href="http://sare.thinkcreative.com/index.php" title="SARE Nationwide - SARE" />
+      <link rel="Search" href="http://sare.thinkcreative.com/index.php/content/advancedsearch" title="Search SARE" />
+      <link rel="Shortcut icon" href="http://sare.thinkcreative.com/extension/site/design/site/images/favicon.png" type="image/x-icon" />
+      <link rel="apple-touch-icon" href="http://sare.thinkcreative.com/extension/site/design/site/images/favicon-iphone.png"  type="image/x-icon" />
+      <link rel="Copyright" href="http://sare.thinkcreative.com/index.php/ezinfo/copyright" />
+      <link rel="Author" href="http://sare.thinkcreative.com/index.php/ezinfo/about" />
+      <link rel="Alternate" type="application/rss+xml" title="RSS" href="http://sare.thinkcreative.com/index.php/rss/feed/my_feed" />
+      <link rel="Alternate" href="http://sare.thinkcreative.com/index.php/layout/set/print" media="print" title="Printable version" />
+      <link rel="stylesheet" type="text/css" href="http://files.thinkcreative.com/reset.css" media="all" charset="utf-8" />
+
+      <link rel="stylesheet" type="text/css" href="http://sare.thinkcreative.com/design/standard/stylesheets/debug.css" media="all" charset="utf-8" />
+
+      <link rel="stylesheet" type="text/css" href="http://sare.thinkcreative.com/extension/ezwt/design/standard/stylesheets/websitetoolbar.css" media="all" charset="utf-8" />
+
+      <link rel="stylesheet" type="text/css" href="http://sare.thinkcreative.com/extension/site/design/site/stylesheets/jquery.tools.css" media="all" charset="utf-8" />
+
+      <link rel="stylesheet" type="text/css" href="http://sare.thinkcreative.com/extension/site/design/site/stylesheets/main.css" media="all" charset="utf-8" />
+
+      <link rel="stylesheet" type="text/css" href="http://sare.thinkcreative.com/extension/site/design/site/stylesheets/print.css" media="print" />
+
+
+      <!--[if lt IE 7]>
+      <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script>
+      <script type="text/javascript" src="http://sare.thinkcreative.com/extension/addedbyus/design/standard/javascript/supersleight.js"></script>
+      <![endif]-->
+
+
+      <script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js" charset="utf-8"></script>
+
+      <script type="text/javascript" src="http://files.thinkcreative.com/jquery.tools_1.2.5_all.min.js" charset="utf-8"></script>
+
+      <script type="text/javascript" src="http://files.thinkcreative.com/cufon-yui.js" charset="utf-8"></script>
+
+      <script type="text/javascript" src="http://sare.thinkcreative.com/extension/ezflow/design/ezflow/javascript/insertmedia.js" charset="utf-8"></script>
+
+      <script type="text/javascript" src="http://sare.thinkcreative.com/extension/phpicalendar/design/standard/javascript/phpicalendar/sessvars.js" charset="utf-8"></script>
+
+      <script type="text/javascript" src="http://sare.thinkcreative.com/extension/htmlmap/design/standard/javascript/jquery.htmlmap.js" charset="utf-8"></script>
+
+      <script type="text/javascript" src="http://sare.thinkcreative.com/extension/htmlmap/design/standard/javascript/htmlmap.usamap.js" charset="utf-8"></script>
+
+      <script type="text/javascript" src="http://sare.thinkcreative.com/extension/site/design/site/javascript/jquery.cycle.min.js" charset="utf-8"></script>
+
+      <script type="text/javascript" src="http://sare.thinkcreative.com/extension/site/design/site/javascript/jquery.dataTables.min.js" charset="utf-8"></script>
+
+      <script type="text/javascript" src="http://sare.thinkcreative.com/extension/site/design/site/javascript/main.js" charset="utf-8"></script>
+
+      <script type="text/javascript" src="http://sare.thinkcreative.com/extension/site/design/site/javascript/agenda.font.js" charset="utf-8"></script>
+      <script type="text/javascript" src="includes/tc_adapt.js" charset="utf-8"></script>
+      <link rel="stylesheet" type="text/css" href="includes/tc_adapt.css" media="all" charset="utf-8" />
+
+  </head>
+
+  <body class="national">
+    <div class="grad national">
+
+      <div id="webpage" class="nosidebar extrainfo section_id_1 current_node_id_99 homepage mod_name_content mod_view_view full">
+
+
+        <div id="site-header">
+          <a id="logo" href="http://sare.thinkcreative.com/"><img rel="images/logo-national.gif" src="http://sare.thinkcreative.com/extension/site/design/site/images/logos/sare-national.gif" alt="" /></a>
+          <img id="tagline" src="http://sare.thinkcreative.com/extension/site/design/site/images/tagline.gif" alt="" />
+          <div id="head-nav-search">
+            <ul class="menu horizontal">
+              <li><a href="http://sare.thinkcreative.com/Get-Involved">Get Involved</a><span class="delimiter"> |</span></li>
+              <li><a href="http://sare.thinkcreative.com/SARE-Webstore">Webstore</a><span class="delimiter"> |</span></li>
+              <li><a href="http://lists.sare.org/archives/sanet-mg.html">SANET Listserv</a><span class="delimiter"> |</span></li>
+              <li><a href="http://sare.thinkcreative.com/Advanced-Search">Advanced Search</a><span class="delimiter"> |</span></li>
+              <li><a href="sare_main.aspx">MySARE Login</a><span class="delimiter"> |</span></li>
+              <li><a href="http://sare.thinkcreative.com/Contact-Us">Contact Us</a><span class="delimiter"> |</span></li>
+            </ul>
+            <div id="lang-search">		<a id="site_ncsare-flag" href="http://sare.thinkcreative.com/SARE-Nationwide/switchlanguage/to/site_ncsare/" title="English">English</a>		<a id="es_ncsare-flag" href="http://sare.thinkcreative.com/SARE-Nationwide/switchlanguage/to/es_ncsare/" title="Español">Español</a>			<form action="http://sare.thinkcreative.com/content/search" method="get" class="search-f">
+                <input type="hidden" name="SubTreeArray" value="99" />
+                <fieldset>
+                  <input id="searchtext" type="text" name="SearchText" value="Enter Text" />
+                  <input class="search-btn" type="image" value="" alt="" src="http://sare.thinkcreative.com/extension/site/design/site/images/search-btn.gif" />
+
+                  <a href="ProjectReport.aspx?do=searchprojprofile" class="adv-search">Search MySARE Reports</a>
+                </fieldset>
+              </form>
+            </div><!-- lang-search -->
+          </div><!-- head-nav-search -->
+        </div><!-- site-header -->
+
+        <ul id="global-menubar" class="menu horizontal">
+
+
+          <li class="first menubar"><span><a title="Information about SARE's sustainable agriculture grants"  class="nav-link" href="http://sare.thinkcreative.com/Grants">Grants</a></span>
+
+
+            <div class="subnav">
+              <div class="subnav-wrp">
+                <ul>
+
+                  <li><a title="Information about the grant types SARE offers"  class="subnav-link" href="http://sare.thinkcreative.com/Grants/Types-of-Grants">Types of Grants</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Grants/How-to-Apply">How to Apply</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Grants/SARE-Grants-In-My-State">SARE Grants In My State</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Grants/Grantee-Log-in">Grantee Log-in</a></li>
+                </ul>
+              </div><!-- subnav-wrp -->
+            </div><!-- subnav -->
+
+          </li>
+
+
+          <li class="active"><span><a  class="nav-link" href="http://sare.thinkcreative.com/Project-Reports">Project Reports</a></span>
+
+
+            <div class="subnav">
+              <div class="subnav-wrp">
+                <ul>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Project-Reports/Submit-a-Report">Submit a Report</a></li>
+
+                  <li><a  class="subnav-link" href="ProjectReport.aspx?do=search" target="_blank">Search SARE Projects</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Project-Reports/Project-Search-Tips">Project Search Tips</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Project-Reports/About-Project-Reports">About Project Reports</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Project-Reports/About-Search-Results">About Search Results</a></li>
+
+                  <li><a title="Grantee-produced curricula, manuals, fact sheets and other information products."  class="subnav-link" href="http://sare.thinkcreative.com/Project-Reports/Project-Products">Project Products</a></li>
+                </ul>
+              </div><!-- subnav-wrp -->
+            </div><!-- subnav -->
+
+          </li>
+
+
+          <li><span><a  class="nav-link" href="http://sare.thinkcreative.com/Learning-Center">Learning Center</a></span>
+
+
+            <div class="subnav two-col">
+              <div class="subnav-wrp">
+                <ul>
+
+                  <li><a title="SARE-produced books based on latest research"  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/Books">Books</a></li>
+
+                  <li><a title="Topical, how-to reports based on latest research and SARE results"  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/Bulletins">Bulletins</a></li>
+
+                  <li><a title="Topical fact sheets on best practices and latest research"  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/Fact-Sheets">Fact Sheets</a></li>
+
+                  <li><a title="Profiles of successful SARE projects"  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/From-the-Field">From the Field</a></li>
+
+                  <li><a title="Newsletters from SARE's four regions."  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/Newsletters">Newsletters</a></li>
+
+                  <li><a title="Videos of SARE grantees and projects, audio clips, PowerPoint presentations and more"  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/Multimedia">Multimedia</a></li>
+
+                  <li><a title="Online and print-version courses for ag professionals."  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/Courses-and-Curricula">Courses and Curricula</a></li>
+
+                  <li><a title="Grantee-produced curricula, manuals, fact sheets and other information products."  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/Project-Products">Project Products</a></li>
+
+                  <li><a title="Biennial reports of SARE projects and activities."  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/SARE-Biennial-Reports">SARE Biennial Reports</a></li>
+                </ul><ul>
+                  <li><a title="Listserv discussions covering the gamut of sustainable agriculture topics."  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/SANET-Sustainable-Agriculture-Listserv">SANET: Sustainable Agriculture Listserv</a></li>
+
+                  <li><a title="Materials about SARE: brochures, program overviews, displays, presentations and more."  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/SARE-Program-Materials">SARE Program Materials</a></li>
+
+                  <li><a title="Materials from SARE conferences, meetings and workshops."  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/Conference-Materials">Conference Materials</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/All-Learning-Center-Products">All Learning Center Products</a></li>
+                </ul>
+              </div><!-- subnav-wrp -->
+            </div><!-- subnav -->
+
+          </li>
+
+
+          <li><span><a  class="nav-link" href="http://sare.thinkcreative.com/Professional-Development">Professional Development</a></span>
+
+
+            <div class="subnav">
+              <div class="subnav-wrp">
+                <ul>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Professional-Development/PDP-Overview">PDP Overview</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Professional-Development/State-Sustainable-Agriculture-Programs">State Sustainable Agriculture Programs</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Professional-Development/Educator-Curriculum-Guides">Educator Curriculum Guides</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Professional-Development/Sample-PDP-Grant-Projects">Sample PDP Grant Projects</a></li>
+                </ul>
+              </div><!-- subnav-wrp -->
+            </div><!-- subnav -->
+
+          </li>
+
+
+          <li><span><a  class="nav-link" href="http://sare.thinkcreative.com/Events">Events</a></span>
+
+
+            <div class="subnav">
+              <div class="subnav-wrp">
+                <ul>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Events/Event-Calendar">Event Calendar</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Events/Past-Conferences">Past Conferences</a></li>
+                </ul>
+              </div><!-- subnav-wrp -->
+            </div><!-- subnav -->
+
+          </li>
+
+
+          <li><span><a  class="nav-link" href="http://sare.thinkcreative.com/Newsroom">Newsroom</a></span>
+
+
+            <div class="subnav">
+              <div class="subnav-wrp">
+                <ul>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Newsroom/Press-Releases">Press Releases</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Newsroom/Media-Contacts">Media Contacts</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Newsroom/Newsletters">Newsletters</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Newsroom/Media-Toolkit">Media Toolkit</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Newsroom/A-Guide-To-This-Site">A Guide To This Site</a></li>
+                </ul>
+              </div><!-- subnav-wrp -->
+            </div><!-- subnav -->
+
+          </li>
+
+
+          <li><span><a  class="nav-link" href="http://sare.thinkcreative.com/About-SARE">About SARE</a></span>
+
+
+            <div class="subnav">
+              <div class="subnav-wrp">
+                <ul>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/About-SARE/SARE-s-Four-Regions">SARE's Four Regions</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Grants">SARE Grants</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center" target="_blank">Learning Center</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Professional-Development" target="_blank">Professional Development</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/About-SARE/SARE-Outreach">SARE Outreach</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/About-SARE/Historical-Timeline">Historical Timeline</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/About-SARE/Staff">Staff</a></li>
+
+                  <li><a  class="subnav-link" href="http://sare.thinkcreative.com/Learning-Center/SARE-Program-Materials/National-Program-Materials/What-is-Sustainable-Agriculture">What is Sustainable Agriculture?</a></li>
+                </ul>
+              </div><!-- subnav-wrp -->
+            </div><!-- subnav -->
+
+          </li>
+        </ul>
+
+
+
+
+
+
+
+        <div id="site-columns">
+
+          <div class="top-bar">
+            <ul class="breadcrumbs menu horizontal">
+              <li><a href="/">Home</a><span class="delimiter">&raquo;</span></li>
+              <li>Project Reports</li>
+            </ul>
+            <div class="tools">
+              <div class="font-size">
+                <a href="#" class="smaller-fs">-</a>
+                <a href="#" class="bigger-fs">+</a>
+                <span class="fs">Font Size</span>
+              </div>
+              <a href="#" onclick="javascript:window.print();return false;" class="print">Print</a>
+
+              <!-- AddThis Button BEGIN -->
+              <div class="addthis_toolbox addthis_default_style ">
+                <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=ar5236" class="addthis_button_compact">Share</a>
+                <span class="addthis_separator">|</span>
+                <a class="addthis_button_preferred_1"></a>
+                <a class="addthis_button_preferred_2"></a>
+                <a class="addthis_button_preferred_3"></a>
+                <a class="addthis_button_preferred_4"></a>
+              </div>
+
+              <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+              <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=ar5236"></script>
+
+              <!-- AddThis Button END -->
+
+            </div>
+          </div>
+
+
+          <div id="sidebar">
+
+            <div class="sidenav">
+              <h2>Project Reports</h2>
+              <ul class="menu vertical">
+
+
+                <li class="first menubar"><span><a  class="nav-link" href="http://sare.thinkcreative.com/Project-Reports/Submit-a-Report">Submit a Report</a></span>
+
+
+                </li>
+
+
+                <li class="active menubar"><span><a  class="nav-link" href="ProjectReport.aspx?do=search">Search SARE Projects</a></span>
+
+
+                </li>
+
+
+                <li><span><a  class="nav-link" href="http://sare.thinkcreative.com/Project-Reports/Project-Search-Tips">Project Search Tips</a></span>
+
+
+                </li>
+
+
+                <li><span><a  class="nav-link" href="http://sare.thinkcreative.com/Project-Reports/About-Project-Reports">About Project Reports</a></span>
+
+
+                </li>
+
+
+                <li><span><a  class="nav-link" href="http://sare.thinkcreative.com/Project-Reports/About-Search-Results">About Search Results</a></span>
+
+
+                </li>
+
+
+                <li><span><a title="Grantee-produced curricula, manuals, fact sheets and other information products."  class="nav-link" href="http://sare.thinkcreative.com/Project-Reports/Project-Products">Project Products</a></span>
+
+
+                </li>
+              </ul>
+            </div>
+            <div id="feedback-box" class="module infobox">
+              <div class="infobox-content">
+                <p>Can't find something? Ask or send <a href="mailto:info@sare.org">feedback</a>.</p>
+              </div>
+            </div>
+            <div id="sare-mission" class="module infobox">
+              <div class="infobox-content">
+                <p>
+                  <span>SARE's mission</span> is to advance&mdash;to the whole of American agriculture&mdash;innovations that improve profitability, stewardship and quality of life by investing in groundbreaking research and education.
+                  <a href="http://sare.thinkcreative.com/About-SARE/SARE-Vision-Mission" id="" title="" target="_self">SARE's vision is...</a>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div id="site-main-content">
+            <div class="content-view-full class-folder">

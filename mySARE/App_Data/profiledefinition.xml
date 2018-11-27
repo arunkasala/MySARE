@@ -1,0 +1,419 @@
+
+<profileoptions>
+  <profilecategory name="inv" label="Farmer Involvement" sublabel="Were (are) farmers or ranchers involved in the implementation of this project in any of the following ways? (If so, please check the box and give your best estimate of the number of producers involved in that manner.)">
+    <profileoption name="planning" label="Participated on project planning team (e.g. involved in decisions on what to do, why, how)?" type="bit"/>
+    <profileoption name="planningcount" label="&#160; &#160; &#160;If YES, number of farmers involved" type="int"/>
+    <profileoption name="research" label="Actively involved in on-farm research or demonstration (e.g. managed trials, interpreted results, hosted or lead tour)?" type="bit"/>
+    <profileoption name="researchcount" label="&#160; &#160; &#160;If YES, number of farmers involved" type="int"/>
+    <profileoption name="land" label="Provided land and/or equipment for test plots or provided the site for a tour?" type="bit"/>
+    <profileoption name="landcount" label="&#160; &#160; &#160;If YES, number of farmers involved" type="int"/>
+    <profileoption name="present" label="Spoke about the project at a meeting (presentation, panel, etc.)?" type="bit"/>
+    <profileoption name="presentcount" label="&#160; &#160; &#160;If YES, number of farmers attended" type="int"/>
+  </profilecategory>
+  <profilecategory name="inv" label="Extension Involvement" sublabel="(Check the box next to the question if the answer is “Yes.”)">
+    <profileoption name="extplanning" label="Was Extension involved in the planning of this project?" type="bit"/>
+    <profileoption name="extapplied" label="Will Extension be involved in the applied research, or educational delivery of project results?" type="bit"/>
+  </profilecategory>
+	
+  <!-- 
+  <profilecategory name="aud" label="Audience">
+    <profileoption name="farmranchers" label="Farmers &amp; Ranchers" type="bit" />
+    <profileoption name="educators" label="Educators" type="bit"/>
+    <profileoption name="researchers" label="Researchers" type="bit"/>
+    <profileoption name="consumers" label="Consumers" type="bit"/>
+  </profilecategory>
+  <profilecategory name="techlvl" label="Tech Level">
+    <profileoption name="beginner" label="Beginner" type="bit"/>
+    <profileoption name="intermediate" label="Intermediate" type="bit"/>
+    <profileoption name="advanced" label="Advanced" type="bit"/>
+  </profilecategory>
+  -->
+	
+  <profilecategory name="cata" label="Systems Category" searchlabel="Systems-level Keyword (Category A)" sublabel="Check only one category which best represents this project." type="radio">
+    <profileoption name='intgfrs' label='Integrated Crop &amp; Livestock System'/>
+    <profileoption name='edu_trn' label='Education &amp; Training'/>
+    <profileoption name='engcons' label='Energy Conservation &amp; Renewable Energy'/>
+    <profileoption name='cropprd' label='Crop Production'/>
+    <profileoption name='econmkt' label='Economic/Marketing'/>
+    <profileoption name='animprd' label='Animal Production (including aquaculture, apairy)'/>
+    <profileoption name='commdev' label='Community Development'/>
+    <profileoption name='pestmgt' label='Pest Management'/>
+    <profileoption name='qoflife' label='Quality of Life'/>
+    <profileoption name='soilmgt' label='Soil Management'/>
+    <profileoption name='nresenv' label='Natural Resources/Environment'/>
+    <profileoption name='other' label='Other'/>
+  </profilecategory>
+  <profilecategory name="catb" label="Commodity Category" searchlabel="Commodity-level Keyword (Category B)" sublabel="Check only one category which best represents the crop or animal production enterprise being studied." type="radio">
+    <profileoption name='aquaculture' map="commanim" label='Aquaculture' />
+	<profileoption name='beef' map="commanim" label='Beef' />
+	<profileoption name='dairy' map="commanim" label='Dairy' />
+	<profileoption name='swine' map="commanim" label='Swine' />
+    <profileoption name='sheep' map="commanim" label='Sheep &amp; Goats' />
+	<profileoption name='poultry' map="commanim" label='Poultry' />
+	<profileoption name='oil' map="commplagr" label='Oil Crops' />
+	<profileoption name='grain' map="commplagr" label='Grain Crops' />
+	<profileoption name='hay' map="commplagr" label='Hay &amp; Forage Crops' />
+	<profileoption name='silage' map="commplagr" label='Silage Crops' />
+	<profileoption name='vegcrp' map="commplveg" label='Vegetable Crops' />
+	<profileoption name='fruittr' map="commplfruit" label='Tree fruits' />
+	<profileoption name='sugar' map="commplagr" label='Sugar Crops' />
+    <profileoption name='fruitsm' map="commplfruit" label='Small Fruits' />
+    <profileoption name='nuts' map="commplnuts" label='Nuts' /> 
+    <profileoption name='ornturf' map="commplagr" label='Ornamentals and turf' />
+    <profileoption name='trees' map="commplagr" label='Trees (forest and Christmas)' />
+    <profileoption name='other' label='Other' />
+  </profilecategory>
+  <profilecategory name="practices" label="Practices" sublabel="Please check all relevant practices that are a component of your project so that users will be able to find your report when searching SARE’s database of projects.">
+    <profilesubcat name="intgfrs" label="Integrated Crop &amp; Livestock System">
+      <profileoption name='agroecosystemanalysis' label='agroecosystem analysis' type='bit'/>
+	  <profileoption name='holisticmanagement' label='holistic management' type='bit'/>
+      <profileoption name='organicagriculture' label='organic agriculture' type='bit'/>
+	  <profileoption name='permaculture' label='permaculture' type='bit'/>
+      <profileoption name='wholefarmplanning' label='whole farm planning' type='bit'/> 
+      <profileoption name='other' label='Other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name="cropprd" label="Crop Production">
+      <profileoption name='agroforestry' label='agroforestry' type='bit'/>
+	  <profileoption name='biologicalinoculants' label='biological inoculants' type='bit'/>
+	  <profileoption name='catchcrops' label='catch crops' type='bit'/>
+	  <profileoption name='cropbreeding' label='crop breeding' type='bit'/>
+      <profileoption name='croprotation' label='crop rotation' type='bit'/>     
+	  <profileoption name='continuouscropping' label='continuous cropping' type='bit'/>
+	  <profileoption name='covercrops' label='cover crops' type='bit'/>
+	  <profileoption name='doublecropping' label='double cropping' type='bit'/>
+	  <profileoption name='earthworms' label='earthworms' type='bit'/>
+	  <profileoption name='fallow' label='fallow' type='bit'/>
+	  <profileoption name='fertigation' label='fertigation' type='bit'/>
+      <profileoption name='foliarfeeding' label='foliar feeding' type='bit'/>
+	  <profileoption name='forestry' label='forestry' type='bit'/>
+	  <profileoption name='greenmanures' label='green manures' type='bit'/>
+	  <profileoption name='intercropping' label='intercropping' type='bit'/>
+	  <profileoption name='irrigation' label='irrigation' type='bit'/>
+	  <profileoption name='minimumtillage' label='minimum tillage' type='bit'/>
+	  <profileoption name='multiplecropping' label='multiple cropping' type='bit'/>
+	  <profileoption name='municipalwastes' label='municipal wastes' type='bit'/>
+	  <profileoption name='notill' label='no-till' type='bit'/>
+	  <profileoption name='nutrientcycling' label='nutrient cycling' type='bit'/>
+	  <profileoption name='organicfertilizers' label='organic fertilizers' type='bit'/>
+	  <profileoption name='organicmatter' label='organic matter' type='bit'/>
+	  <profileoption name='permaculture' label='permaculture' type='bit'/>
+	  <profileoption name='reducedapplications' label='reduced applications' type='bit'/>
+	  <profileoption name='relaycropping' label='relay cropping' type='bit'/>
+	  <profileoption name='ridgetillage' label='ridge tillage' type='bit'/>
+	  <profileoption name='soilanalysis' label='soil analysis' type='bit'/>
+      <profileoption name='stripcropping' label='strip cropping' type='bit'/> 
+      <profileoption name='stubblemulching' label='stubble mulching' type='bit'/>
+	  <profileoption name='transitioning' label='transitioning to organic' type='bit'/>
+	  <profileoption name='tissueanalysis' label='tissue analysis' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name="animprd" label="Animal Production">
+      <profileoption name='alternativefeedstuffs' label='alternative feedstuffs' type='bit'/>
+	  <profileoption name='alternativehousing' label='alternative housing' type='bit'/>
+	  <profileoption name='alternparasitecontrol' label='altern. parasite control' type='bit'/>
+	  <profileoption name='animalprotection' label='animal protection' type='bit'/>
+	  <profileoption name='composting' label='composting' type='bit'/>
+	  <profileoption name='continuousgrazing' label='continuous grazing' type='bit'/>	  
+	  <profileoption name='feedadditives' label='feed additives' type='bit'/>
+	  <profileoption name='feedformulation' label='feed formulation' type='bit'/>	 
+	  <profileoption name='freerange' label='free-range' type='bit'/>
+      <profileoption name='feedrations' label='feed rations' type='bit'/>
+	  <profileoption name='grazingmanagement' label='grazing management' type='bit'/>
+	  <profileoption name='herbalmedicines' label='herbal medicines' type='bit'/>
+	  <profileoption name='homeopathy' label='homeopathy' type='bit'/>
+	  <profileoption name='implants' label='implants' type='bit'/>
+	  <profileoption name='inoculants' label='inoculants' type='bit'/>
+	  <profileoption name='livestockbreeding' label='livestock breeding' type='bit'/>
+	  <profileoption name='manuremanagement' label='manure management' type='bit'/>
+	  <profileoption name='mineralsupplements' label='mineral supplements' type='bit'/>
+      <profileoption name='multispeciesgrazing' label='multispecies grazing' type='bit'/>	
+	  <profileoption name='pasturefertility' label='pasture fertility' type='bit'/>
+	  <profileoption name='pasturerenovation' label='pasture renovation' type='bit'/>
+	  <profileoption name='preventivepractices' label='preventive practices' type='bit'/>
+	  <profileoption name='probiotics' label='probiotics' type='bit'/>
+	  <profileoption name='rangeimprovement' label='range improvement' type='bit'/>
+	  <profileoption name='rotationalgrazing' label='rotational grazing' type='bit'/>
+	  <profileoption name='shadeshelter' label='shade/shelter' type='bit'/>
+      <profileoption name='stockpiledforages' label='stockpiled forages' type='bit'/>
+	  <profileoption name='stockingrate' label='stocking rate' type='bit'/>
+	  <profileoption name='therapeutics' label='therapeutics' type='bit'/>
+	  <profileoption name='vaccines' label='vaccines' type='bit'/>
+	  <profileoption name='wateringsystem' label='watering system' type='bit'/>
+	  <profileoption name='winterforage' label='winter forage' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name="pestmgt" label="Pest Management">
+      <profileoption name='allelopathy' label='allelopathy' type='bit'/>
+	  <profileoption name='biologicalcontrol' label='biological control' type='bit'/>
+	  <profileoption name='biorationalpesticides' label='biorational pesticides' type='bit'/>
+	  <profileoption name='botanicalpesticides' label='botanical pesticides' type='bit'/>
+	  <profileoption name='chemicalcontrol' label='chemical control' type='bit'/>
+	  <profileoption name='competition' label='competition' type='bit'/>
+	  <profileoption name='compostextracts' label='compost extracts' type='bit'/>
+	  <profileoption name='culturalcontrol' label='cultural control' type='bit'/>
+	  <profileoption name='diseasevectors' label='disease vectors' type='bit'/>
+	  <profileoption name='economicthreshold' label='economic threshold' type='bit'/>
+	  <profileoption name='eradication' label='eradication' type='bit'/>
+      <profileoption name='fieldmonitoring' label='field monitoring' type='bit'/>
+	  <profileoption name='flame' label='flame' type='bit'/>
+	  <profileoption name='geneticresistance' label='genetic resistance' type='bit'/>
+	  <profileoption name='ipm' label='IPM' type='bit'/>
+	  <profileoption name='killedmulches' label='killed mulches' type='bit'/>
+	  <profileoption name='livingmulches' label='living mulches' type='bit'/>
+	  <profileoption name='matingdisruption' label='mating disruption' type='bit'/>
+      <profileoption name='mechanicalcontrol' label='mechanical control' type='bit'/>
+	  <profileoption name='physicalcontrol' label='physical control' type='bit'/>
+	  <profileoption name='plasticmulching' label='plastic mulching' type='bit'/>
+	  <profileoption name='precisioncultivation' label='precision cultivation' type='bit'/>
+	  <profileoption name='precisionherbicideuse' label='precision herbicide use' type='bit'/>
+	  <profileoption name='prevention' label='prevention' type='bit'/>
+	  <profileoption name='rowcovers' label='row covers' type='bit'/>
+	  <profileoption name='sanitation' label='sanitation' type='bit'/>
+      <profileoption name='smothercrops' label='smother crops' type='bit'/>
+	  <profileoption name='soilsolarization' label='soil solarization' type='bit'/>
+      <profileoption name='trapcrops' label='trap crops' type='bit'/>
+	  <profileoption name='traps' label='traps' type='bit'/>
+	  <profileoption name='vegetativemulching' label='vegetative mulching' type='bit'/>
+	  <profileoption name='weathermonitoring' label='weather monitoring' type='bit'/>
+	  <profileoption name='weedecology' label='weed ecology' type='bit'/>
+	  <profileoption name='weedergeese' label='weeder geese' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name="soilmgt" label="Soil Management">
+	  <profileoption name='carbonsequestration' label='carbon sequestration' type='bit'/>
+	  <profileoption name='nutrientmineralization' label='nutrient mineralization' type='bit'/>
+      <profileoption name='soilmicrobiology' label='soil microbiology' type='bit'/>
+	  <profileoption name='soilchemistry' label='soil chemistry' type='bit'/>
+      <profileoption name='soilorganicmatter' label='soil organic matter' type='bit'/>
+	  <profileoption name='soilphysics' label='soil physics' type='bit'/>
+      <profileoption name='soilquality' label='soil quality' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name="nresenv" label="Natural Resources/Environment">
+      <profileoption name='afforestation' label='afforestation' type='bit'/>
+	  <profileoption name='biodiversity' label='biodiversity' type='bit'/>
+	  <profileoption name='biosphere' label='biosphere' type='bit'/>
+	  <profileoption name='conservationtillage' label='conservation tillage' type='bit'/>
+	  <profileoption name='contourcultivation' label='contour cultivation' type='bit'/>
+      <profileoption name='grasshedges' label='grass hedges' type='bit'/>
+	  <profileoption name='grasswaterways' label='grass waterways' type='bit'/>
+	  <profileoption name='habitatenhancement' label='habitat enhancement' type='bit'/>
+	  <profileoption name='hedgerows' label='hedgerows' type='bit'/>
+	  <profileoption name='indicators' label='indicators' type='bit'/>
+      <profileoption name='riparianplantings' label='riparian plantings' type='bit'/>
+	  <profileoption name='riverbankprotection' label='riverbank protection' type='bit'/>
+	  <profileoption name='soilstabilization' label='soil stabilization' type='bit'/>
+	  <profileoption name='terraces' label='terraces' type='bit'/>
+	  <profileoption name='wetlands' label='wetlands' type='bit'/>
+      <profileoption name='wildlife' label='wildlife' type='bit'/>
+	  <profileoption name='windbreaks' label='windbreaks' type='bit'/>
+	  <profileoption name='woodyhedges' label='woody hedges' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name="edu_trn" label="Education &amp; Training">
+      <profileoption name='casestudy' label='case study' type='bit'/>
+	  <profileoption name='conference' label='conference' type='bit'/>
+	  <profileoption name='curriculum' label='curriculum' type='bit'/>
+	  <profileoption name='database' label='database' type='bit'/>
+	  <profileoption name='decisionsupportsystem' label='decision support system' type='bit'/>
+      <profileoption name='demonstration' label='demonstration' type='bit'/>
+	  <profileoption name='display' label='display' type='bit'/>
+	  <profileoption name='extension' label='extension' type='bit'/>
+	  <profileoption name='factsheet' label='fact sheet' type='bit'/>
+	  <profileoption name='farmertofarmer' label='farmer to farmer' type='bit'/>
+      <profileoption name='focusgroup' label='focus group' type='bit'/>
+	  <profileoption name='mentoring' label='mentoring' type='bit'/>
+	  <profileoption name='network' label='network' type='bit'/>
+	  <profileoption name='onfarmresearch' label='on-farm research' type='bit'/>
+	  <profileoption name='participatoryresearch' label='participatory research' type='bit'/>
+      <profileoption name='studycircle' label='study circle' type='bit'/>
+	  <profileoption name='workshop' label='workshop' type='bit'/>
+	  <profileoption name='youtheducation' label='youth education' type='bit'/>
+      <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name="econmkt" label="Economic/Marketing">
+      <profileoption name='alternativeenterprise' label='alternative enterprise' type='bit'/>
+	  <profileoption name='budget' label='budget' type='bit'/>
+      <profileoption name='csa' label='CSA' type='bit'/>
+	  <profileoption name='cooperatives' label='cooperatives' type='bit'/>
+	  <profileoption name='costandreturns' label='cost and returns' type='bit'/>
+	  <profileoption name='directmarketing' label='direct marketing' type='bit'/>
+	  <profileoption name='ecommerce' label='e-commerce' type='bit'/>
+	  <profileoption name='farmtoinstitution' label='farm-to-institution' type='bit'/>
+      <profileoption name='feasibilitystudy' label='feasibility study' type='bit'/>
+	  <profileoption name='financialanalysis' label='financial analysis' type='bit'/>
+	  <profileoption name='foodproductqualitysafety' label='food/product quality/safety' type='bit'/>
+	  <profileoption name='laboremployment' label='labor/employment' type='bit'/>
+	  <profileoption name='marketstudy' label='market study' type='bit'/>
+      <profileoption name='riskmanagement' label='risk management' type='bit'/>
+      <profileoption name='valueadded' label='value added' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name="commdev" label="Community Development">
+	  <profileoption name='agritourism' label='agritourism' type='bit'/>
+	  <profileoption name='communityplanning' label='community planning' type='bit'/>
+	  <profileoption name='ethnicdifferencesculturaldemographicchange' label='ethnic differences/cultural &amp; demographic change' type='bit'/>
+      <profileoption name='infrastructureanalysis' label='infrastructure analysis' type='bit'/>
+	  <profileoption name='leadershipdevelopment' label='leadership development' type='bit'/>
+	  <profileoption name='localregionalcommunityfoodsystems' label='local/regional/community food systems' type='bit'/>
+      <profileoption name='newbusinessopportunities' label='new business opportunities' type='bit'/>
+      <profileoption name='partnerships' label='partnerships' type='bit'/>
+	  <profileoption name='publicparticipation' label='public participation' type='bit'/>
+	  <profileoption name='publicpolicy' label='public policy' type='bit'/>
+	  <profileoption name='technicalassistance' label='technical assistance' type='bit'/>
+      <profileoption name='urbanagriculture' label='urban agriculture' type='bit'/>
+      <profileoption name='urbanruralintegration' label='urban/rural integration' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name="qoflife" label="Quality of Life">
+      <profileoption name='analysisofpersonalfamilylife' label='analysis of personal/family life' type='bit'/>
+	  <profileoption name='communityservices' label='community services' type='bit'/>
+	  <profileoption name='employmentopportunities' label='employment opportunities' type='bit'/>	  
+      <profileoption name='socialcapital' label='social capital' type='bit'/>
+	  <profileoption name='socialnetworks' label='social networks' type='bit'/>
+	  <profileoption name='socialpsychologicalindicators' label='social psychological indicators' type='bit'/>
+	  <profileoption name='sustainabilitymeasures' label='sustainability measures' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name='engcons' label='Energy Conservation &amp; Renewable Energy'>
+      <profileoption name='bioenergybiofuels' label='bioenergy and biofuels' type='bit'/>
+	  <profileoption name='energyconservationefficiency' label='energy conservation/efficiency' type='bit'/>
+	  <profileoption name='energyuseconsumption' label='energy use and consumption' type='bit'/>
+	  <profileoption name='solarenergy' label='solar energy' type='bit'/>
+      <profileoption name='windpower' label='wind power' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+  </profilecategory>
+  <profilecategory name="commodities" label="Commodities" sublabel="Please check all commodities that are a component of your project so that users will be able to find your report.  Search engine results will be based on the fields you select.">
+    <profilesubcat name='commplagr' label='Agronomic'>
+      <profileoption name='barley' label='barley' type='bit'/>
+	  <profileoption name='canola' label='canola' type='bit'/>
+	  <profileoption name='corn' label='corn' type='bit'/>
+	  <profileoption name='cotton' label='cotton' type='bit'/>
+	  <profileoption name='flax' label='flax' type='bit'/>
+	  <profileoption name='grasshay' label='grass hay' type='bit'/>
+      <profileoption name='grasslegumehay' label='grass/legume hay' type='bit'/>
+	  <profileoption name='hops' label='hops' type='bit'/>
+	  <profileoption name='kenaf' label='kenaf' type='bit'/>
+	  <profileoption name='legumehay' label='legume hay' type='bit'/>
+	  <profileoption name='millet' label='millet' type='bit'/>
+	  <profileoption name='oats' label='oats' type='bit'/>
+      <profileoption name='peanuts' label='peanuts' type='bit'/>
+	  <profileoption name='potatoes' label='potatoes' type='bit'/>
+	  <profileoption name='rapeseed' label='rapeseed' type='bit'/>
+	  <profileoption name='rice' label='rice' type='bit'/>
+	  <profileoption name='rye' label='rye' type='bit'/>
+	  <profileoption name='safflower' label='safflower' type='bit'/>
+	  <profileoption name='spelt' label='spelt' type='bit'/>
+      <profileoption name='sorghum' label='sorghum' type='bit'/>
+	  <profileoption name='soybeans' label='soybeans' type='bit'/>
+	  <profileoption name='sugarbeets' label='sugarbeets' type='bit'/>
+	  <profileoption name='sugarcane' label='sugarcane' type='bit'/>
+	  <profileoption name='sunflower' label='sunflower' type='bit'/>
+	  <profileoption name='sweetpotatoes' label='sweetpotatoes' type='bit'/>
+	  <profileoption name='tobacco' label='tobacco' type='bit'/>
+	  <profileoption name='wheat' label='wheat' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name='commplveg' label='Vegetable'>
+      <profileoption name='artichokes' label='artichokes' type='bit'/>
+	  <profileoption name='asparagus' label='asparagus' type='bit'/>
+	  <profileoption name='beans' label='beans' type='bit'/>
+	  <profileoption name='beets' label='beets' type='bit'/>
+	  <profileoption name='broccoli' label='broccoli' type='bit'/>
+	  <profileoption name='brusselsprouts' label='brussel sprouts' type='bit'/>
+      <profileoption name='cabbage' label='cabbage' type='bit'/>
+	  <profileoption name='carrots' label='carrots' type='bit'/>
+	  <profileoption name='cauliflower' label='cauliflower' type='bit'/>
+	  <profileoption name='celery' label='celery' type='bit'/>
+	  <profileoption name='cucumbers' label='cucumbers' type='bit'/>
+	  <profileoption name='eggplant' label='eggplant' type='bit'/>
+      <profileoption name='escarole' label='escarole' type='bit'/>
+	  <profileoption name='garlic' label='garlic' type='bit'/>
+	  <profileoption name='greens' label='greens' type='bit'/>
+	  <profileoption name='kale' label='kale' type='bit'/>
+	  <profileoption name='leeks' label='leeks' type='bit'/>
+	  <profileoption name='lentils' label='lentils' type='bit'/>
+	  <profileoption name='lettuce' label='lettuce' type='bit'/>
+      <profileoption name='onions' label='onions' type='bit'/>
+	  <profileoption name='parsnips' label='parsnips' type='bit'/>
+	  <profileoption name='peas' label='peas' type='bit'/>
+	  <profileoption name='peppers' label='peppers' type='bit'/>
+	  <profileoption name='pumpkins' label='pumpkins' type='bit'/>
+	  <profileoption name='radishes' label='radishes' type='bit'/>
+	  <profileoption name='rutabagas' label='rutabagas' type='bit'/>
+	  <profileoption name='spinach' label='spinach' type='bit'/>
+	  <profileoption name='squashes' label='squashes' type='bit'/>
+      <profileoption name='sweetcorn' label='sweet corn' type='bit'/>
+	  <profileoption name='tomatoes' label='tomatoes' type='bit'/>
+	  <profileoption name='turnips' label='turnips' type='bit'/>
+	  <profileoption name='watermelon' label='watermelon' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name='commplfruit' label='Fruit'>
+      <profileoption name='apples' label='apples' type='bit'/>
+	  <profileoption name='apricots' label='apricots' type='bit'/>
+	  <profileoption name='avocados' label='avocados' type='bit'/>
+	  <profileoption name='bananas' label='bananas' type='bit'/>
+	  <profileoption name='berries' label='berries' type='bit'/>
+	  <profileoption name='blueberries' label='blueberries' type='bit'/>
+	  <profileoption name='brambles' label='brambles' type='bit'/>
+	  <profileoption name='cranberries' label='cranberries' type='bit'/>
+      <profileoption name='cherries' label='cherries' type='bit'/>
+	  <profileoption name='figs' label='figs' type='bit'/>
+	  <profileoption name='grapefruit' label='grapefruit' type='bit'/>
+	  <profileoption name='grapes' label='grapes' type='bit'/>
+      <profileoption name='lemons' label='lemons' type='bit'/>
+	  <profileoption name='limes' label='limes' type='bit'/>
+	  <profileoption name='melons' label='melons' type='bit'/>
+	  <profileoption name='olives' label='olives' type='bit'/>
+	  <profileoption name='oranges' label='oranges' type='bit'/>
+      <profileoption name='peaches' label='peaches' type='bit'/>
+	  <profileoption name='pears' label='pears' type='bit'/>
+	  <profileoption name='pineapples' label='pineapples' type='bit'/>
+	  <profileoption name='plums' label='plums' type='bit'/>
+	  <profileoption name='quinces' label='quinces' type='bit'/>
+	  <profileoption name='strawberries' label='strawberries' type='bit'/>
+	  <profileoption name='tangerines' label='tangerines' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name='commplnuts' label='Nuts'>
+      <profileoption name='almonds' label='almonds' type='bit'/>
+	  <profileoption name='chestnuts' label='chestnuts' type='bit'/>
+      <profileoption name='hazelnuts' label='hazelnuts' type='bit'/>
+	  <profileoption name='macadamia' label='macadamia' type='bit'/>
+      <profileoption name='pecans' label='pecans' type='bit'/>
+	  <profileoption name='pistachios' label='pistachios' type='bit'/>
+      <profileoption name='walnuts' label='walnuts' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name='commpladd' label='Additional Plants'>
+      <profileoption name='herbs' label='herbs' type='bit'/>
+	  <profileoption name='mushrooms' label='mushrooms' type='bit'/>
+	  <profileoption name='nativeplants' label='native plants (grasses, shrubs, trees)' type='bit'/>
+      <profileoption name='ornamentals' label='ornamentals (flowers, shrubs, trees, turf)' type='bit'/>
+      <profileoption name='trees' label='trees (Christmas, fiber, windbreaks)' type='bit'/>
+	  <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name='commanim' label='Animals'>
+      <profileoption name='beef' label='beef' type='bit'/>
+      <profileoption name='chicken' label='chicken' type='bit'/>
+	  <profileoption name='dairy' label='dairy' type='bit'/>
+      <profileoption name='goats' label='goats' type='bit'/>
+      <profileoption name='rabbits' label='rabbits' type='bit'/>
+      <profileoption name='swine' label='swine' type='bit'/>
+	  <profileoption name='sheep' label='sheep' type='bit'/>
+      <profileoption name='turkeys' label='turkeys' type='bit'/>
+      <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+    <profilesubcat name='commmisc' label='Miscellaneous'>
+      <profileoption name='bees' label='bees' type='bit'/>
+      <profileoption name='fish' label='fish' type='bit'/>
+      <profileoption name='ratites' label='ratites' type='bit'/>
+      <profileoption name='shellfish' label='shellfish' type='bit'/>
+      <profileoption name='other' label='other' type='other'/>
+    </profilesubcat>
+  </profilecategory>
+</profileoptions>
+
+

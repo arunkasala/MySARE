@@ -1,0 +1,10 @@
+C:\MySARE\mySARE\daikonProdInfo\bin\Debug\daikonProdInfo.dll
+C:\MySARE\mySARE\daikonProdInfo\bin\Debug\daikonProdInfo.pdb
+C:\MySARE\mySARE\daikonProdInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\MySARE\mySARE\daikonProdInfo\obj\Debug\daikonProdInfo.dll
+C:\MySARE\mySARE\daikonProdInfo\obj\Debug\daikonProdInfo.pdb
+C:\MySARE\mySARE\daikonProdInfo\bin\Release\daikonProdInfo.dll
+C:\MySARE\mySARE\daikonProdInfo\bin\Release\daikonProdInfo.pdb
+C:\MySARE\mySARE\daikonProdInfo\obj\Release\ResolveAssemblyReference.cache
+C:\MySARE\mySARE\daikonProdInfo\obj\Release\daikonProdInfo.dll
+C:\MySARE\mySARE\daikonProdInfo\obj\Release\daikonProdInfo.pdb

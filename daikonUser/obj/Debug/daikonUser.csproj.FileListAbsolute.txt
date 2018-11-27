@@ -1,0 +1,12 @@
+C:\MySARE\mySARE\daikonUser\bin\Debug\daikonUser.dll
+C:\MySARE\mySARE\daikonUser\bin\Debug\daikonUser.pdb
+C:\MySARE\mySARE\daikonUser\bin\Debug\daikonGrants.dll
+C:\MySARE\mySARE\daikonUser\bin\Debug\daikonFile.dll
+C:\MySARE\mySARE\daikonUser\bin\Debug\daikonProfile.dll
+C:\MySARE\mySARE\daikonUser\bin\Debug\daikonGrants.pdb
+C:\MySARE\mySARE\daikonUser\bin\Debug\daikonGrants.xml
+C:\MySARE\mySARE\daikonUser\bin\Debug\daikonFile.pdb
+C:\MySARE\mySARE\daikonUser\bin\Debug\daikonProfile.pdb
+C:\MySARE\mySARE\daikonUser\obj\Debug\daikonUser.csprojResolveAssemblyReference.cache
+C:\MySARE\mySARE\daikonUser\obj\Debug\daikonUser.dll
+C:\MySARE\mySARE\daikonUser\obj\Debug\daikonUser.pdb

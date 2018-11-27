@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SAREroot>
+  <user username="dakhalsey">
+    <nametitle/>
+    <firstname>Daniel</firstname>
+    <lastname>Halsey</lastname>
+    <namepostfix/>
+    <organization name="UF/IFAS-IT">
+      <position>Web Applications Developer</position>
+    </organization>
+    <contact>
+      <addrStreet1>PO Box 110495</addrStreet1>
+      <addrStreet2/>
+      <addrCity>Gainesville</addrCity>
+      <addrState>FL</addrState>
+      <addrZip>32611</addrZip>
+      <addrZip4/>
+      <numPhone>352-846-3213</numPhone>
+      <numFax/>
+      <numCell/>
+      <email>dakhalsey@ifas.ufl.edu</email>
+      <website>www.sare.org</website>
+    </contact>
+    <userroles>
+      <role code="genUser" description="General User"/>
+      <role code="projPI" description="Project PI"/>
+      <role code="admin" description="Site Admin"/>
+    </userroles>
+  </user>
+  <SAREgrant projNum="ENE98-037" regionCode="NE" regionText="Northeast" year="1998" typeCode="1" typeText="Professional Development Program">
+    <title>How to Keep Agriculture Sustainable: Training Trainers on Conserving Farmland &amp; Resolving Land Use Conflicts in the Delmarva Peninsula</title>
+    <funds>
+      <SARE>77282.0000</SARE>
+      <Fed>0.0000</Fed>
+      <NonFed>30602.0000</NonFed>
+    </funds>
+    <report year="1999" type="0" approvedstatus="True" startdate="1/1/1900" enddate="1/1/1900">
+      <section ID="1" order="3">
+        <name>Accomplishments/Milestones</name>
+        <subsection order="1" type="0" uid="1506" hasChanged="False">
+          <heading>Abstract</heading>
+          <text>American agriculture increasingly is being practiced on the edge of expanding urban areas.  This adds competition for land and land use conflicts to the host of economic and environmental challenges modern farmers face.  These result in escalating land values and property taxes, making it hard for farmers to buy or rent land, expand their operations, or transfer their land to other farmers.  New neighbors often complain about the sights, smells and sounds of commercial production.</text>
+        </subsection>
+        <subsection order="2" type="0" uid="1507" hasChanged="False">
+          <heading/>
+          <text>The long-term sustainability of agriculture is tied directly to the quantity and quality of land that is available to farm.  On the Delmarva Peninsula, this tie is particularly strong.  The peninsula supports one of the most productive agricultural areas in the Northeast.  Although farming has defined the Delmarva's spirit and landscape for centuries, its future is in question.  Escalating pressure from fast-growing metropolitan areas in the mid-Atlantic place the peninsula as the ninth most-threatened agricultural area in the country.  Communities in the peninsula are recognizing the problem and looking for solutions, and they are asking extension and other educators for help.</text>
+        </subsection>
+        <subsection order="3" type="0" uid="1508" hasChanged="False">
+          <heading/>
+          <text>This project will provide the answers and guidance these communities need by training extension, NRCS and other USDA field personnel about farmland protection issues.  The American Farmland Trust is working with Delaware and Maryland Cooperative Extension and a diverse group of stake-holders to develop curricula, produce standardized information packages, train trainers, and subsequently conduct a larger community-based outreach effort on farmland protection in the Delmarva Peninsula.</text>
+        </subsection>
+      </section>
+      <section ID="11" order="2">
+        <name>Objectives/Performance Targets</name>
+        <subsection order="1" type="1" uid="1509" hasChanged="False">
+          <heading>Objectives</heading>
+          <text>Help extension, other USDA field personnel, and leaders from farm organizations such as Farm Bureau, the Grange, and commodity groups and vocational agriculture teachers to examine and increase their role in land use education and public policy.
+
+Teach agricultural educators and leaders how to protect farmland and resolve conflicts related to neighbor relations and competition for land.
+
+Develop a core curriculum, informational materials, and access to resources to carry out these workshops and to provide materials for community workshops in the future.</text>
+        </subsection>
+      </section>
+      <section ID="16" order="1">
+        <name>Summary</name>
+        <subsection order="1" type="0" uid="1510" hasChanged="False">
+          <heading/>
+          <text>This project will train Cooperative Extension, NRCS, and other USDA field personnel about farmland protection issues.  A diverse group will develop curricula, produce standardized information packages, provide training events, and conduct a community-based outreach effort on farmland protection issues.  The goal is to provide assistance to communities where pressure from fast-growing metropolitan areas threatens the region's agricultural future.</text>
+        </subsection>
+      </section>
+    </report>
+  </SAREgrant><states nationality="U.S. and Territories" description="U.S. States and Territories">
+  <state>
+    <name>Alaska</name>
+    <abbr>AK</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Alabama</name>
+    <abbr>AL</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Arkansas</name>
+    <abbr>AR</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>American Samoa</name>
+    <abbr>AS</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Arizona</name>
+    <abbr>AZ</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>California</name>
+    <abbr>CA</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Colorado</name>
+    <abbr>CO</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Connecticut</name>
+    <abbr>CT</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>Washington, D.C.</name>
+    <abbr>D.C.</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>Delaware</name>
+    <abbr>DE</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>Florida</name>
+    <abbr>FL</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Micronesia</name>
+    <abbr>FM</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Georgia</name>
+    <abbr>GA</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Guam</name>
+    <abbr>GU</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Hawaii</name>
+    <abbr>HI</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Iowa</name>
+    <abbr>IA</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>Idaho</name>
+    <abbr>ID</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Illinois</name>
+    <abbr>IL</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>Indiana</name>
+    <abbr>IN</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>Kansas</name>
+    <abbr>KS</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>Kentucky</name>
+    <abbr>KY</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Louisiana</name>
+    <abbr>LA</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Massachusetts</name>
+    <abbr>MA</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>Maryland</name>
+    <abbr>MD</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>Maine</name>
+    <abbr>ME</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>Michigan</name>
+    <abbr>MI</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>Minnesota</name>
+    <abbr>MN</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>Missouri</name>
+    <abbr>MO</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>Northern Mariana Islands</name>
+    <abbr>MP</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Mississippi</name>
+    <abbr>MS</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Montana</name>
+    <abbr>MT</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>North Carolina</name>
+    <abbr>NC</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>North Dakota</name>
+    <abbr>ND</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>Nebraska</name>
+    <abbr>NE</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>New Hampshire</name>
+    <abbr>NH</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>New Jersey</name>
+    <abbr>NJ</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>New Mexico</name>
+    <abbr>NM</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Nevada</name>
+    <abbr>NV</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>New York</name>
+    <abbr>NY</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>Ohio</name>
+    <abbr>OH</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>Oklahoma</name>
+    <abbr>OK</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Oregon</name>
+    <abbr>OR</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Pennsylvania</name>
+    <abbr>PA</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>Puerto Rico</name>
+    <abbr>PR</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Rhode Island</name>
+    <abbr>RI</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>South Carolina</name>
+    <abbr>SC</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>South Dakota</name>
+    <abbr>SD</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>Tennessee</name>
+    <abbr>TN</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Texas</name>
+    <abbr>TX</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Utah</name>
+    <abbr>UT</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Virginia</name>
+    <abbr>VA</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Virgin Islands</name>
+    <abbr>VI</abbr>
+    <regionCode>S</regionCode>
+  </state>
+  <state>
+    <name>Vermont</name>
+    <abbr>VT</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>Washington</name>
+    <abbr>WA</abbr>
+    <regionCode>W</regionCode>
+  </state>
+  <state>
+    <name>Wisconsin</name>
+    <abbr>WI</abbr>
+    <regionCode>NC</regionCode>
+  </state>
+  <state>
+    <name>West Virginia</name>
+    <abbr>WV</abbr>
+    <regionCode>NE</regionCode>
+  </state>
+  <state>
+    <name>Wyoming</name>
+    <abbr>WY</abbr>
+    <regionCode>W</regionCode>
+  </state>
+</states><regions nationality="U.S. and Territories" description="SARE Regions">
+  <region>
+    <name>Northeast</name>
+    <regionCode>NE</regionCode>
+  </region>
+  <region>
+    <name>South</name>
+    <regionCode>S</regionCode>
+  </region>
+  <region>
+    <name>West</name>
+    <regionCode>W</regionCode>
+  </region>
+  <region>
+    <name>North Central</name>
+    <regionCode>NC</regionCode>
+  </region>
+</regions><projTypes description="Types of SARE-Funded Projects">
+  <projType>
+    <name>Professional Development Program</name>
+    <typeCode>1</typeCode>
+  </projType>
+  <projType>
+    <name>Research and Education Project</name>
+    <typeCode>2</typeCode>
+  </projType>
+  <projType>
+    <name>Farmer/Rancher Project</name>
+    <typeCode>3</typeCode>
+  </projType>
+  <projType>
+    <name>Graduate Student Project</name>
+    <typeCode>4</typeCode>
+  </projType>
+  <projType>
+    <name>On Farm Research/Partnership Project</name>
+    <typeCode>5</typeCode>
+  </projType>
+  <projType>
+    <name>Sustainable Community Innovation Project</name>
+    <typeCode>6</typeCode>
+  </projType>
+</projTypes><reptSections description="Report Sections by Project Type">
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>0</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>1</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>3</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Introduction</name>
+    <reptType>1</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>2</order>
+    <ID>8</ID>
+  </section>
+  <section>
+    <name>Farmer Adoption</name>
+    <reptType>1</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>9</order>
+    <ID>4</ID>
+  </section>
+  <section>
+    <name>Materials and Methods</name>
+    <reptType>1</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>4</order>
+    <ID>9</ID>
+  </section>
+  <section>
+    <name>Areas Needing Additional Study</name>
+    <reptType>1</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>10</order>
+    <ID>2</ID>
+  </section>
+  <section>
+    <name>Accomplishments</name>
+    <reptType>1</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>6</order>
+    <ID>1</ID>
+  </section>
+  <section>
+    <name>Publications/Outreach</name>
+    <reptType>1</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>8</order>
+    <ID>14</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>0</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>1</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>3</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Accomplishments/Milestones</name>
+    <reptType>0</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>3</order>
+    <ID>1</ID>
+  </section>
+  <section>
+    <name>Economic Analysis</name>
+    <reptType>1</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>7</order>
+    <ID>3</ID>
+  </section>
+  <section>
+    <name>Accomplishments/Milestones</name>
+    <reptType>0</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>3</order>
+    <ID>1</ID>
+  </section>
+  <section>
+    <name>Outcomes and Impacts</name>
+    <reptType>1</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>5</order>
+    <ID>12</ID>
+  </section>
+  <section>
+    <name>Results and Discussion/Milestones</name>
+    <reptType>1</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>5</order>
+    <ID>15</ID>
+  </section>
+  <section>
+    <name>Methods</name>
+    <reptType>1</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>4</order>
+    <ID>10</ID>
+  </section>
+  <section>
+    <name>Impacts and Contributions/Outcomes</name>
+    <reptType>0</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>4</order>
+    <ID>7</ID>
+  </section>
+  <section>
+    <name>Impacts and Contributions/Outcomes</name>
+    <reptType>0</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>4</order>
+    <ID>7</ID>
+  </section>
+  <section>
+    <name>Impact of Results/Outcomes</name>
+    <reptType>1</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>6</order>
+    <ID>6</ID>
+  </section>
+  <section>
+    <name>Publications/Outreach</name>
+    <reptType>1</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>8</order>
+    <ID>14</ID>
+  </section>
+  <section>
+    <name>Introduction</name>
+    <reptType>1</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>2</order>
+    <ID>8</ID>
+  </section>
+  <section>
+    <name>Potential Contributions</name>
+    <reptType>1</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>7</order>
+    <ID>13</ID>
+  </section>
+  <section>
+    <name>Future Recommendations</name>
+    <reptType>1</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>9</order>
+    <ID>5</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>1</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>0</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Accomplishments/Milestones</name>
+    <reptType>0</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>3</order>
+    <ID>1</ID>
+  </section>
+  <section>
+    <name>Impacts and Contributions/Outcomes</name>
+    <reptType>0</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>4</order>
+    <ID>7</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>1</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>1</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Introduction</name>
+    <reptType>1</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>2</order>
+    <ID>8</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>1</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>3</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Methods</name>
+    <reptType>1</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>4</order>
+    <ID>10</ID>
+  </section>
+  <section>
+    <name>Outcomes and Impacts</name>
+    <reptType>1</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>5</order>
+    <ID>12</ID>
+  </section>
+  <section>
+    <name>Accomplishments</name>
+    <reptType>1</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>6</order>
+    <ID>1</ID>
+  </section>
+  <section>
+    <name>Potential Contributions</name>
+    <reptType>1</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>7</order>
+    <ID>13</ID>
+  </section>
+  <section>
+    <name>Publications/Outreach</name>
+    <reptType>1</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>8</order>
+    <ID>14</ID>
+  </section>
+  <section>
+    <name>Future Recommendations</name>
+    <reptType>1</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>9</order>
+    <ID>5</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>0</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Accomplishments/Milestones</name>
+    <reptType>0</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>3</order>
+    <ID>1</ID>
+  </section>
+  <section>
+    <name>Impacts and Contributions/Outcomes</name>
+    <reptType>0</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>4</order>
+    <ID>7</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>1</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Introduction</name>
+    <reptType>1</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>2</order>
+    <ID>8</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>1</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>3</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Materials and Methods</name>
+    <reptType>1</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>4</order>
+    <ID>9</ID>
+  </section>
+  <section>
+    <name>Results and Discussion/Milestones</name>
+    <reptType>1</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>5</order>
+    <ID>15</ID>
+  </section>
+  <section>
+    <name>Impact of Results/Outcomes</name>
+    <reptType>1</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>6</order>
+    <ID>6</ID>
+  </section>
+  <section>
+    <name>Economic Analysis</name>
+    <reptType>1</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>7</order>
+    <ID>3</ID>
+  </section>
+  <section>
+    <name>Publications/Outreach</name>
+    <reptType>1</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>8</order>
+    <ID>14</ID>
+  </section>
+  <section>
+    <name>Farmer Adoption</name>
+    <reptType>1</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>9</order>
+    <ID>4</ID>
+  </section>
+  <section>
+    <name>Areas Needing Additional Study</name>
+    <reptType>1</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>10</order>
+    <ID>2</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>0</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>0</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>0</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>0</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>0</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>0</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>0</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Accomplishments/Milestones</name>
+    <reptType>0</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>3</order>
+    <ID>1</ID>
+  </section>
+  <section>
+    <name>Impacts and Contributions/Outcomes</name>
+    <reptType>0</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>4</order>
+    <ID>7</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>1</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Introduction</name>
+    <reptType>1</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>2</order>
+    <ID>8</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>1</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>3</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Methods</name>
+    <reptType>1</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>4</order>
+    <ID>10</ID>
+  </section>
+  <section>
+    <name>Outcomes and Impacts</name>
+    <reptType>1</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>5</order>
+    <ID>12</ID>
+  </section>
+  <section>
+    <name>Accomplishments</name>
+    <reptType>1</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>6</order>
+    <ID>1</ID>
+  </section>
+  <section>
+    <name>Potential Contributions</name>
+    <reptType>1</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>7</order>
+    <ID>13</ID>
+  </section>
+  <section>
+    <name>Publications/Outreach</name>
+    <reptType>1</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>8</order>
+    <ID>14</ID>
+  </section>
+  <section>
+    <name>Future Recommendations</name>
+    <reptType>1</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>9</order>
+    <ID>5</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>0</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Accomplishments/Milestones</name>
+    <reptType>0</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>3</order>
+    <ID>1</ID>
+  </section>
+  <section>
+    <name>Impacts and Contributions/Outcomes</name>
+    <reptType>0</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>4</order>
+    <ID>7</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>1</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Introduction</name>
+    <reptType>1</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>2</order>
+    <ID>8</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>1</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>3</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Materials and Methods</name>
+    <reptType>1</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>4</order>
+    <ID>9</ID>
+  </section>
+  <section>
+    <name>Results and Discussion/Milestones</name>
+    <reptType>1</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>5</order>
+    <ID>15</ID>
+  </section>
+  <section>
+    <name>Impact of Results/Outcomes</name>
+    <reptType>1</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>6</order>
+    <ID>6</ID>
+  </section>
+  <section>
+    <name>Economic Analysis</name>
+    <reptType>1</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>7</order>
+    <ID>3</ID>
+  </section>
+  <section>
+    <name>Publications/Outreach</name>
+    <reptType>1</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>8</order>
+    <ID>14</ID>
+  </section>
+  <section>
+    <name>Farmer Adoption</name>
+    <reptType>1</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>9</order>
+    <ID>4</ID>
+  </section>
+  <section>
+    <name>Areas Needing Additional Study</name>
+    <reptType>1</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>10</order>
+    <ID>2</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>0</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Accomplishments/Milestones</name>
+    <reptType>0</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>3</order>
+    <ID>1</ID>
+  </section>
+  <section>
+    <name>Impacts and Contributions/Outcomes</name>
+    <reptType>0</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>4</order>
+    <ID>7</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>1</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Introduction</name>
+    <reptType>1</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>2</order>
+    <ID>8</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>1</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>3</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Materials and Methods</name>
+    <reptType>1</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>4</order>
+    <ID>9</ID>
+  </section>
+  <section>
+    <name>Results and Discussion/Milestones</name>
+    <reptType>1</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>5</order>
+    <ID>15</ID>
+  </section>
+  <section>
+    <name>Impact of Results/Outcomes</name>
+    <reptType>1</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>6</order>
+    <ID>6</ID>
+  </section>
+  <section>
+    <name>Economic Analysis</name>
+    <reptType>1</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>7</order>
+    <ID>3</ID>
+  </section>
+  <section>
+    <name>Publications/Outreach</name>
+    <reptType>1</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>8</order>
+    <ID>14</ID>
+  </section>
+  <section>
+    <name>Farmer Adoption</name>
+    <reptType>1</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>9</order>
+    <ID>4</ID>
+  </section>
+  <section>
+    <name>Areas Needing Additional Study</name>
+    <reptType>1</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>10</order>
+    <ID>2</ID>
+  </section>
+  <section>
+    <name>Summary</name>
+    <reptType>0</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Summary/Abstract</name>
+    <reptType>2</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Summary/Abstract</name>
+    <reptType>2</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Summary/Abstract</name>
+    <reptType>2</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Summary/Abstract</name>
+    <reptType>2</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Summary/Abstract</name>
+    <reptType>2</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Summary/Abstract</name>
+    <reptType>2</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Summary/Abstract</name>
+    <reptType>2</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>1</order>
+    <ID>16</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>2</reptType>
+    <projTypeCode>1</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>2</reptType>
+    <projTypeCode>2</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>2</reptType>
+    <projTypeCode>3</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>2</reptType>
+    <projTypeCode>4</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>2</reptType>
+    <projTypeCode>5</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>2</reptType>
+    <projTypeCode>6</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+  <section>
+    <name>Objectives/Performance Targets</name>
+    <reptType>2</reptType>
+    <projTypeCode>7</projTypeCode>
+    <order>2</order>
+    <ID>11</ID>
+  </section>
+</reptSections><textTypes description="Report Text-block Styles">
+  <textType>
+    <name>Paragraph</name>
+    <typeCode>0</typeCode>
+  </textType>
+  <textType>
+    <name>Bulleted List</name>
+    <typeCode>1</typeCode>
+  </textType>
+  <textType>
+    <name>Numbered List</name>
+    <typeCode>2</typeCode>
+  </textType>
+  <textType>
+    <name>Quote Block</name>
+    <typeCode>3</typeCode>
+  </textType>
+  <textType>
+    <name>Unindented Paragraph</name>
+    <typeCode>4</typeCode>
+  </textType>
+</textTypes>
+</SAREroot>

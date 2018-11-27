@@ -1,0 +1,43 @@
+h3
+{
+  margin: 6px 0px 0px 0px;
+}
+
+.pagetitle
+{
+  color: #883760;
+  display: inline-block;
+  float: none;
+  font-family: Tahoma, Arial, Verdana, sans-serif;
+  font-size: 42px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  height: auto !important;
+  line-height: 1em !important;
+  padding: 0;
+  margin: 0;
+}
+#sidebar
+{
+  display: inline !important;
+}
+td.leftnav
+{
+  display: none;
+}
+
+#site-main-content td, #site-main-content span, #site-main-content p, #site-main-content div
+{
+  line-height:1.6em;
+}
+
+table.NORM
+{
+  width: 780px !important;
+}
+
+table.NORM td
+{
+  padding-right: 15px;
+}

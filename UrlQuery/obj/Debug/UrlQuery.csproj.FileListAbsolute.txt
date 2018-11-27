@@ -1,0 +1,5 @@
+C:\MySARE\mySARE\UrlQuery\bin\Debug\UrlQuery.dll
+C:\MySARE\mySARE\UrlQuery\bin\Debug\UrlQuery.pdb
+C:\MySARE\mySARE\UrlQuery\obj\Debug\UrlQuery.csprojResolveAssemblyReference.cache
+C:\MySARE\mySARE\UrlQuery\obj\Debug\UrlQuery.dll
+C:\MySARE\mySARE\UrlQuery\obj\Debug\UrlQuery.pdb

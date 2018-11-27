@@ -1,0 +1,8 @@
+C:\MySARE\mySARE\daikonPDP\obj\Debug\ResolveAssemblyReference.cache
+C:\MySARE\mySARE\daikonPDP\obj\Debug\daikonPDP.dll
+C:\MySARE\mySARE\daikonPDP\obj\Debug\daikonPDP.pdb
+C:\MySARE\mySARE\daikonPDP\bin\daikonPDP.dll
+C:\MySARE\mySARE\daikonPDP\bin\daikonPDP.pdb
+C:\MySARE\mySARE\daikonPDP\obj\Release\ResolveAssemblyReference.cache
+C:\MySARE\mySARE\daikonPDP\obj\Release\daikonPDP.dll
+C:\MySARE\mySARE\daikonPDP\obj\Release\daikonPDP.pdb

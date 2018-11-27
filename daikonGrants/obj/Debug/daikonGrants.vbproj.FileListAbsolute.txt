@@ -1,0 +1,13 @@
+C:\MySARE\mySARE\daikonGrants\bin\Debug\daikonGrants.dll
+C:\MySARE\mySARE\daikonGrants\bin\Debug\daikonGrants.pdb
+C:\MySARE\mySARE\daikonGrants\bin\Debug\daikonGrants.xml
+C:\MySARE\mySARE\daikonGrants\bin\Debug\daikonFile.dll
+C:\MySARE\mySARE\daikonGrants\bin\Debug\daikonProfile.dll
+C:\MySARE\mySARE\daikonGrants\bin\Debug\daikonFile.pdb
+C:\MySARE\mySARE\daikonGrants\bin\Debug\daikonProfile.pdb
+C:\MySARE\mySARE\daikonGrants\obj\Debug\daikonGrants.vbprojResolveAssemblyReference.cache
+C:\MySARE\mySARE\daikonGrants\obj\Debug\daikon.Resources.resources
+C:\MySARE\mySARE\daikonGrants\obj\Debug\daikonGrants.vbproj.GenerateResource.Cache
+C:\MySARE\mySARE\daikonGrants\obj\Debug\daikonGrants.dll
+C:\MySARE\mySARE\daikonGrants\obj\Debug\daikonGrants.xml
+C:\MySARE\mySARE\daikonGrants\obj\Debug\daikonGrants.pdb

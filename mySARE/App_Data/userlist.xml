@@ -1,0 +1,42 @@
+<userlist>
+  <user username="aclark">
+    <lastname>Clark</lastname>
+    <firstname>Andy</firstname>
+    <userroles>
+      <role code="genUser" description="General User" />
+      <role code="projPI" description="Project PI" />
+    </userroles>
+  </user>
+  <user username="dakh5">
+    <lastname>Halsey</lastname>
+    <firstname>Daniel</firstname>
+    <userroles>
+      <role code="genUser" description="General User" />
+      <role code="projPI" description="Project PI" />
+    </userroles>
+  </user>
+  <user username="dakhalsey">
+    <lastname>Halsey</lastname>
+    <firstname>Daniel</firstname>
+    <userroles>
+      <role code="genUser" description="General User" />
+      <role code="projPI" description="Project PI" />
+      <role code="admin" description="Site Admin" />
+    </userroles>
+  </user>
+  <user username="pitest">
+    <lastname>Investigator</lastname>
+    <firstname>Principal</firstname>
+    <userroles>
+      <role code="genUser" description="General User" />
+      <role code="projPI" description="Project PI" />
+    </userroles>
+  </user>
+  <user username="test">
+    <lastname>User</lastname>
+    <firstname>Test</firstname>
+    <userroles>
+      <role code="genUser" description="General User" />
+    </userroles>
+  </user>
+</userlist>

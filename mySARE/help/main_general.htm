@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://
+www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<script type="text/javascript" src="highslide/highslide.packed.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>MySARE Help - Main Page (General Users)</title>
+
+<!-- This function accepts two URLs as parameters.
+    It will return the first if the current URL contains "help"
+    and the second if it does not -->
+<script type="text/javascript">
+function link(a,b)
+{
+  url = new String(location.href);
+
+  if (url.indexOf("/help/") == -1)
+  {
+  return a;
+  }
+  else
+  {
+  return b;
+  }
+}
+</script>
+
+</head>
+<body>
+
+<div id="intro">
+	<a href="/mysare/help/main_general.htm#intro" target="_blank"><h3>MySARE Help Feature</h3></a>
+	<p>The MySARE help system provides useful information on the various 
+	features of this site.  Whenever you see the <img src="../images/help.png" border="0" /> icon, you can click it 
+	to view additional information on a particular feature of the site.</p>
+</div>
+
+<hr/>
+
+<div id="userinfo">
+	<a href="/mysare/help/main_general.htm#userinfo" target="_blank"><h3>User Information</h3></a>
+	<p>This section displays some basic information about your MySARE account.</p>
+	<p>Use the <i>Edit User Info and Change Password</i> link to modify your information.<p>
+</div>
+
+<hr/>
+
+<div id="projects">
+	<a href="/mysare/help/main_general.htm#projects" target="_blank"><h3>MySARE Funded Projects</h3></a>
+	<p>You must be a grant recipient or administrator to use this function.</p>
+	<ul>
+	<li><b>Retrieve New Project</b> - Add an existing project to your account using the project number and claim code you received by email from MySARE</li>
+	<li><b>View/Edit My Reports and Projects</b> - View the reports and projects that are linked to your account</li>
+	<!-- <li><b>Propose New Project</b> - Propose a new project</li> -->	
+    </ul>
+</div>
+
+<hr/>
+
+<div id="calendar">
+	<a href="/mysare/help/main_general.htm#calendar" target="_blank"><h3>Calendar</h3></a>
+	<ul>
+	<li><b>Add New Event</b> - Submit a new event to the SARE events calendar</li>
+	<li><b>View/Edit My Events</b> - View a list of your MySARE events</li>
+	<li><b>Search My Events</b> - Search your MySARE events using a number of different fields</li>	
+	</ul>
+</div>
+
+<div id="grant">
+	<!-- <p>For example, fact sheets, videos, PowerPoints, curricula, photos, manuals, etc…</p> -->
+</div>
+
+</body>
+</html>
