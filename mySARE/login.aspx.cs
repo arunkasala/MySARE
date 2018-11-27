@@ -69,6 +69,7 @@ namespace daikon
 
                 userConnection = new SqlConnection(userConnString);
 
+                // connection string
                 userConnection = new SqlConnection(userConnString);
                 userSQL = "DaikonCheckAcctLockForUser";
                 userCommand = new SqlCommand(userSQL, userConnection);
