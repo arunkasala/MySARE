@@ -1,0 +1,11 @@
+C:\Users\akasala\source\repos\NorthwestEFApp\NorthwindService\bin\Debug\netcoreapp2.1\NorthwindService.deps.json
+C:\Users\akasala\source\repos\NorthwestEFApp\NorthwindService\bin\Debug\netcoreapp2.1\NorthwindService.runtimeconfig.json
+C:\Users\akasala\source\repos\NorthwestEFApp\NorthwindService\bin\Debug\netcoreapp2.1\NorthwindService.runtimeconfig.dev.json
+C:\Users\akasala\source\repos\NorthwestEFApp\NorthwindService\bin\Debug\netcoreapp2.1\NorthwindService.dll
+C:\Users\akasala\source\repos\NorthwestEFApp\NorthwindService\obj\Debug\netcoreapp2.1\NorthwindService.csprojAssemblyReference.cache
+C:\Users\akasala\source\repos\NorthwestEFApp\NorthwindService\obj\Debug\netcoreapp2.1\NorthwindService.csproj.CoreCompileInputs.cache
+C:\Users\akasala\source\repos\NorthwestEFApp\NorthwindService\obj\Debug\netcoreapp2.1\NorthwindService.RazorAssemblyInfo.cache
+C:\Users\akasala\source\repos\NorthwestEFApp\NorthwindService\obj\Debug\netcoreapp2.1\NorthwindService.RazorAssemblyInfo.cs
+C:\Users\akasala\source\repos\NorthwestEFApp\NorthwindService\obj\Debug\netcoreapp2.1\NorthwindService.AssemblyInfoInputs.cache
+C:\Users\akasala\source\repos\NorthwestEFApp\NorthwindService\obj\Debug\netcoreapp2.1\NorthwindService.AssemblyInfo.cs
+C:\Users\akasala\source\repos\NorthwestEFApp\NorthwindService\obj\Debug\netcoreapp2.1\NorthwindService.RazorTargetAssemblyInfo.cache
